@@ -19,6 +19,14 @@ Alternatively, if only one section if the code is needed (e.g. map of geographic
    git clone https://github.com/Sa-mV/vessel-analysis.git
    cd vessel-analysis
 ```
+Afterwards, use the software of your choice to open the notebook:
+
+```bash
+jupyter notebook
+```
+
+Or navigate using the file system to the directory where you cloned the repository and open it from there.
+
 **Install  dependencies**
 
 The following Python libraries have been used:
